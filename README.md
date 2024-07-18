@@ -1,7 +1,7 @@
-# Data-II
+# Netflix Dashboard
 
 🛑Overview:
-The Netflix Analysis Dashboard offers an in-depth look at Netflix's content catalog, highlighting key metrics such as the number of titles, countries, total duration, and directors. It provides 
+The Netflix Analysis Dashboard offers an in-depth look at Netflix's content catalogue, highlighting key metrics such as the number of titles, countries, total duration, and directors. It provides 
 
 valuable insights into content distribution, popular genres, and trends over time.
 
